@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Anees Rahman!
 
-### 💻 Aspiring Full-Stack .NET Developer | React Developer
+### 💻 Being Full-Stack .NET Developer | Software Engineer
 
 *Building things, breaking things, and learning something new every day.*
 
@@ -46,7 +46,7 @@
 
 ## 📌 Featured Project
 
-### 🍫 MalaBars – E-commerce Application
+###  MalaBars – E-commerce Application
 
 A chocolate e-commerce application focused on providing a smooth shopping experience.
 
