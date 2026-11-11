@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🔭 Currently building **MalaBars – An E-commerce Application**
 - 🌱 Learning **ASP.NET Core, Entity Framework Core, SQL Server & JWT Authentication**
