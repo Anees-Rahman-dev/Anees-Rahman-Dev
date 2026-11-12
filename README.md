@@ -1,7 +1,7 @@
  <div align="center">
 
 # ANEES RAHMAN
-### Software Engineer · .NET & React Developer
+### Being Software Engineer · .NET & React Developer
 
 **Turning curiosity into code. Turning code into products.**
 
