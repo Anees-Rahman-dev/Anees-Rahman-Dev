@@ -56,7 +56,7 @@ I work across the frontend and backend, with a growing focus on the .NET ecosyst
 
 <div align="center">
 
-## 🍫 MalaBars
+##  MalaBars
 
 ### A chocolate experience, built from scratch.
 
