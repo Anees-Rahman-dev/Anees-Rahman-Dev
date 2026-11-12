@@ -1,101 +1,85 @@
  <div align="center">
 
-# 👋 Hey there, I'm Anees Rahman!
+# ANEES RAHMAN
+### Software Engineer · .NET & React Developer
 
-### 💻 Being Full-Stack .NET Developer | Software Engineer
+**Turning curiosity into code. Turning code into products.**
 
-*Building things, breaking things, and learning something new every day.*
-
-[![GitHub followers](https://img.shields.io/github/followers/Anees-Rahman-dev?style=social)](https://github.com/Anees-Rahman-dev)
-[![Profile Views](https://komarev.com/ghpvc/?username=Anees-Rahman-dev&color=blueviolet&style=flat)](https://github.com/Anees-Rahman-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Anees--Rahman--dev-181717?style=flat-square&logo=github)](https://github.com/Anees-Rahman-dev)
+[![Profile Views](https://komarev.com/ghpvc/?username=Anees-Rahman-dev&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS)](https://github.com/Anees-Rahman-dev)
 
 </div>
 
 ---
 
-##  About Me
+### 01 / THE DEVELOPER BEHIND THE CODE
 
-- 🔭 Currently building **MalaBars – An E-commerce Application**
-- 🌱 Learning **ASP.NET Core, Entity Framework Core, SQL Server & JWT Authentication**
-- 💡 Interested in building scalable **.NET Web APIs** and modern frontend applications.
-- 👯 Looking to collaborate on **.NET + React projects**
-- 🤝 Always open to learning, sharing ideas, and working on exciting projects.
-- 💬 Ask me about **C#, ASP.NET Core, Web API, React, Redux & SQL**
-- 📫 Reach me at **[aneesrahmandev@gmail.com](mailto:aneesrahmandev@gmail.com)**
+I'm Anees, a developer from Kerala, India, who enjoys understanding how things work beneath the interface.
 
----
+My focus is building applications that don't just look good but work well behind the scenes too.
 
-## 🛠️ Tech Stack & Tools
+I work across the frontend and backend, with a growing focus on the .NET ecosystem.
 
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
-</p>
+- Currently crafting **MalaBars**, a chocolate e-commerce platform.
+- Exploring ASP.NET Core, Web API, EF Core and SQL Server.
+- Building interfaces with React, Redux Toolkit and Tailwind CSS.
+- Interested in clean architecture, authentication and API design.
+- Believe in understanding the logic before writing the code.
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" />
-</p>
-
-### Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlserver,git,github,vscode,postman" />
-</p>
+> I don't want to just learn how to use a technology. I want to understand why it exists and where it belongs.
 
 ---
 
-## 📌 Featured Project
+### 02 / MY DEVELOPMENT TOOLBOX
 
-###  MalaBars – E-commerce Application
+**BACKEND — Where the logic lives**
 
-A chocolate e-commerce application focused on providing a smooth shopping experience.
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
+</p>
 
-**Technologies used:**
-- React & Redux Toolkit
-- Tailwind CSS
-- ASP.NET Core Web API
-- Entity Framework Core
-- SQL Server
-- JWT Authentication
+**FRONTEND — Where ideas become interfaces**
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" />
+</p>
+
+**DATA & WORKFLOW — Behind every application**
+
+<p>
+<img src="https://skillicons.dev/icons?i=sqlserver,git,github,vscode,postman" />
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+### 03 / CURRENTLY BUILDING
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anees-Rahman-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+## 🍫 MalaBars
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anees-Rahman-dev&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="95%" src="https://streak-stats.demolab.com?user=Anees-Rahman-dev&theme=tokyonight&hide_border=true" />
+### A chocolate experience, built from scratch.
 
 </div>
 
+An e-commerce application inspired by the richness of Malabar, combining a modern shopping experience with a structured backend.
+
+**The engineering behind it:**
+
+| Layer | Technologies |
+|:---|:---|
+| Frontend | React, Redux Toolkit |
+| Styling | Tailwind CSS |
+| Backend | ASP.NET Core Web API |
+| Architecture | Clean Architecture |
+| ORM | Entity Framework Core |
+| Database | SQL Server |
+| Security | JWT Authentication |
+
+**What I'm working on:** Authentication, product management, cart operations, wishlist, order processing and backend integration.
+
+[Explore my repositories →](https://github.com/Anees-Rahman-dev)
+
 ---
 
-## 🤝 Let's Connect!
-
-<p align="left">
-  <a href="https://github.com/Anees-Rahman-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/aneesxrhmn">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:aneesrahmandev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### 💭 Developer Mindset
-
-*"Great things are built one line of code at a time."*
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories.
-
-</div>
+### 04 / GITHUB ACT
