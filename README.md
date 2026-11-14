@@ -68,12 +68,12 @@ An e-commerce application inspired by the richness of Malabar, combining a moder
 
 | Layer | Technologies |
 |:---|:---|
-| Frontend | React, Redux Toolkit |
-| Styling | Tailwind CSS |
+| Frontend | React, Redux Toolkit, Tanstack Query |
+| Styling | CSS, Tailwind CSS |
 | Backend | ASP.NET Core Web API |
 | Architecture | Clean Architecture |
 | ORM | Entity Framework Core |
-|Data Access | ActiveX Data Objects(ADO.NET) |
+| Data Access | ActiveX Data Objects(ADO.NET) |
 | Database | SQL Server |
 | Security | JWT Authentication |
 
