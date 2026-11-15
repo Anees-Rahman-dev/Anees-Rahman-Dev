@@ -76,7 +76,8 @@ An e-commerce application inspired by the richness of Malabar, combining a moder
 | ORM | Entity Framework Core |
 | Data Access | ActiveX Data Objects(ADO.NET) |
 | Database | SQL Server |
-| Security | JWT Authentication |
+|Validation | Data Annotations, FluentValidation |
+| Security | JWT Authentication, Role-Based Authorization |
 
 **What I'm working on:** Authentication, product management, cart operations, wishlist, order processing and backend integration.
 
