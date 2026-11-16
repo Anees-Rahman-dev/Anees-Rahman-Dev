@@ -12,11 +12,23 @@
 
 ---
 
-### 01 / THE DEVELOPER BEHIND THE CODE
+01 — A LITTLE ABOUT ME
 
-I'm Anees, a developer from Kerala, India, who enjoys understanding how things work beneath the interface.
+I'm Anees, a developer from Kerala, India, passionate about building applications and understanding the engineering behind them.
 
-My focus is building applications that don't just look good but work well behind the scenes too.
+I enjoy working across the frontend and backend, turning ideas into functional applications and continuously improving the way I write code.
+
+Currently developing MalaBars, a full-stack chocolate e-commerce application.
+
+Building backend applications using C#, ASP.NET Core and SQL Server.
+
+Creating responsive interfaces with React and Tailwind CSS.
+
+Exploring Clean Architecture, API design, authentication and database management.
+
+Interested in writing maintainable code and understanding real-world software architecture.
+
+My goal isn't just to make things work. It's to understand how they're built, why they work, and how to make them better.
 
 I work across the frontend and backend, with a growing focus on the .NET ecosystem.
 
