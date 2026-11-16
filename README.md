@@ -30,13 +30,21 @@ Interested in writing maintainable code and understanding real-world software ar
 
 My goal isn't just to make things work. It's to understand how they're built, why they work, and how to make them better.
 
-I work across the frontend and backend, with a growing focus on the .NET ecosystem.
+02 — THE TECHNOLOGIES I WORK WITH
 
-- Currently crafting **MalaBars**, a chocolate e-commerce platform.
-- Exploring ASP.NET Core, Web API, EF Core and SQL Server.
-- Building interfaces with React, Redux Toolkit and Tailwind CSS.
-- Interested in clean architecture, authentication and API design.
-- Believe in understanding the logic before writing the code.
+BACKEND DEVELOPMENT
+
+<p> <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" /> </p>
+
+FRONTEND DEVELOPMENT
+
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" /> </p>
+
+DATABASE & DEVELOPER TOOLS
+
+<p> <img src="https://skillicons.dev/icons?i=sqlserver,git,github,vscode,postman" /> </p>
+
+
 
 > I don't want to just learn how to use a technology. I want to understand why it exists and where it belongs.
 
