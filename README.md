@@ -12,7 +12,7 @@
 
 ---
 
-01 — A LITTLE ABOUT ME
+01 — A BREIF ABOUT ME
 
 I'm Anees, a developer from Kerala, India, passionate about building applications and understanding the engineering behind them.
 
