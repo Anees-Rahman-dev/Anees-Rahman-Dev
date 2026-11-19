@@ -54,7 +54,7 @@ DATABASE & DEVELOPER TOOLS
 
 **BACKEND — Where the logic lives**
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
 </p>
 
