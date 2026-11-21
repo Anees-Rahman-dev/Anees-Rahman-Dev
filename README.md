@@ -60,13 +60,13 @@ DATABASE & DEVELOPER TOOLS
 
 **FRONTEND — Where ideas become interfaces**
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" />
 </p>
 
 **DATA & WORKFLOW — Behind every application**
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=sqlserver,git,github,vscode,postman" />
 </p>
 
