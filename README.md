@@ -76,7 +76,7 @@ An e-commerce application inspired by the richness of Malabar, combining a moder
  | Layer | Technologies |
 |:---|:---|
 | Frontend | React, Redux Toolkit, Tanstack Query |
-| Styling | CSS, Tailwind CSS |
+| Styling | CSS, Tailwind CSS, Bootstrap |
 | Backend | ASP.NET Core Web API |
 | Architecture | Clean Architecture |
 | Languages | JS, C# |
