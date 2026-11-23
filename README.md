@@ -71,19 +71,22 @@ An e-commerce application inspired by the richness of Malabar, combining a moder
 
 **The engineering behind it:**
 
-| Layer | Technologies |
+<div align="center">
+
+ | Layer | Technologies |
 |:---|:---|
 | Frontend | React, Redux Toolkit, Tanstack Query |
 | Styling | CSS, Tailwind CSS |
 | Backend | ASP.NET Core Web API |
 | Architecture | Clean Architecture |
-| Languages | JS, C#, |
+| Languages | JS, C# |
 | ORM | Entity Framework Core |
 | Data Access | ActiveX Data Objects(ADO.NET) |
 | Database | SQL Server |
 | Validation | Data Annotations, FluentValidation |
 | Development Tools | Visual Studio, VS Code, SQL Server Management Studio |
 | Security | JWT Authentication, Role-Based Authorization |
+</div>
 
 **What I'm working on:** Authentication, product management, cart operations, wishlist, order processing and backend integration.
 
