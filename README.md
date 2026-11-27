@@ -126,6 +126,21 @@ My goal isn't just to make things work. It's to understand how they're built, wh
     </td>
   </tr>
 </table>
+### 🧠 Productivity & Knowledge Management
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.simpleicons.org/notion/FFFFFF" width="48"/><br/>Notion
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.simpleicons.org/obsidian/7C3AED" width="48"/><br/>Obsidian
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.simpleicons.org/googletasks/2684FC" width="48"/><br/>Task Management
+    </td>
+  </tr>
+</table>
     <td align="center" width="130">
       <img src="https://skillicons.dev/icons?i=sqlserver" width="48" /><br/>SSMS
     </td>
