@@ -38,7 +38,7 @@ My goal isn't just to make things work. It's to understand how they're built, wh
 
 ### 02 / TECHNICAL SKILLS
 
-###  Backend Development
+### ⚙️ Backend Development
 
 <table align="center">
   <tr>
@@ -77,7 +77,7 @@ My goal isn't just to make things work. It's to understand how they're built, wh
   </tr>
 </table>
 
-###  Frontend Development
+### 🎨 Frontend Development
 
 <table align="center">
   <tr>
@@ -102,7 +102,7 @@ My goal isn't just to make things work. It's to understand how they're built, wh
   </tr>
 </table>
 
-###  Tools & Workflow
+### 🛠️ Tools & Workflow
 
 <table align="center">
   <tr>
