@@ -52,7 +52,7 @@ My goal isn't just to make things work. It's to understand how they're built, wh
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/><br/>SQL Server
     </td>
     <td align="center" width="130">
-      <img src="https://img.shields.io/badge/EF-CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/><br/>Entity Framework Core
+      <img src="https://img.shields.io/badge/EF-CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/><br/>EF Core
     </td>
     <td align="center" width="130">
       <img src="https://img.shields.io/badge/ADO.NET-0078D4?style=for-the-badge"/><br/>ADO.NET
@@ -69,10 +69,10 @@ My goal isn't just to make things work. It's to understand how they're built, wh
       <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/><br/>Swagger / OpenAPI
     </td>
     <td align="center" width="130">
-      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/><br/>JWT Authentication
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/><br/>JWT Auth
     </td>
     <td align="center" width="130">
-      <img src="https://img.shields.io/badge/DI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/><br/>Dependency Injection
+      <img src="https://img.shields.io/badge/DI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/><br/>DI
     </td>
   </tr>
 </table>
