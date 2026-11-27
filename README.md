@@ -142,11 +142,6 @@ My goal isn't just to make things work. It's to understand how they're built, wh
     </td>
   </tr>
 </table>
-   <td align="center" width="130">
-  <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48"/><br/>
-  SQL Server Management Studio
-</td>
-
 ---
 
 ### 04 / GITHUB ACT
