@@ -35,62 +35,102 @@ My goal isn't just to make things work. It's to understand how they're built, wh
 
 ---
 
-### 02 / MY DEVELOPMENT TOOLBOX
+## 02 — TECHNICAL SKILLS
 
-**BACKEND — Where the logic lives**
+### ⚙️ Backend Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" /><br/>ASP.NET Core
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" /><br/>C#
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=sqlserver" width="48" /><br/>SQL Server
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" /><br/>Entity Framework Core
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" /><br/>ADO.NET
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" /><br/>Postman
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="48" /><br/>Visual Studio
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="48" /><br/>Git
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="48" /><br/>GitHub
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" /><br/>REST API
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" /><br/>Swagger
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" /><br/>VS Code
+    </td>
+  </tr>
+</table>
 
-**FRONTEND — Where ideas become interfaces**
+### 🎨 Frontend Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=html" width="48" /><br/>HTML5
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=css" width="48" /><br/>CSS3
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=js" width="48" /><br/>JavaScript
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=react" width="48" /><br/>React
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=redux" width="48" /><br/>Redux Toolkit
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" /><br/>Tailwind CSS
+    </td>
+  </tr>
+</table>
 
-**DATA & WORKFLOW — Behind every application**
+### 🛠️ Tools & Workflow
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=sqlserver,git,github,vscode,postman" />
-</p>
-
----
-
-### 03 / CURRENTLY BUILDING
-
-<div align="center">
-
-##  MalaBars
-
-### A chocolate experience, built from scratch.
-
-</div>
-
-An e-commerce application inspired by the richness of Malabar, combining a modern shopping experience with a structured backend.
-
-**The engineering behind it:**
-
-<div align="center">
-
- | Layer | Technologies |
-|:---|:---|
-| Frontend | React, Redux Toolkit, Tanstack Query |
-| Styling | CSS, Tailwind CSS, Bootstrap |
-| Backend | ASP.NET Core Web API |
-| Architecture | Clean Architecture |
-| Languages | JS, C# |
-| ORM | Entity Framework Core |
-| Data Access | ActiveX Data Objects(ADO.NET) |
-| Database | SQL Server |
-| Validation | Data Annotations, FluentValidation |
-| Development Tools | Visual Studio, VS Code, SQL Server Management Studio |
-| Security | JWT Authentication, Role-Based Authorization |
-</div>
-
-**What I'm working on:** Authentication, product management, cart operations, wishlist, order processing and backend integration.
-
-[Explore my repositories →](https://github.com/Anees-Rahman-dev)
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" /><br/>VS Code
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="48" /><br/>Visual Studio
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=git" width="48" /><br/>Git
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=github" width="48" /><br/>GitHub
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" /><br/>Postman
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=sqlserver" width="48" /><br/>SSMS
+    </td>
+  </tr>
+</table>
 
 ---
 
