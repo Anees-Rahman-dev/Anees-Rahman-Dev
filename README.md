@@ -57,6 +57,10 @@ My goal isn't just to make things work. It's to understand how they're built, wh
     <td align="center" width="130">
       <img src="https://img.shields.io/badge/Dapper-239120?style=for-the-badge"/><br/>Dapper
     </td>
+   <td align="center" width="130">
+  <img src="https://img.shields.io/badge/Unit_of_Work-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="48"/><br/>
+  Unit of Work
+</td>
   </tr>
   <tr>
     <td align="center" width="130">
