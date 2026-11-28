@@ -127,6 +127,16 @@ My goal isn't just to make things work. It's to understand how they're built, wh
   </tr>
 </table>
 
+### 🔗 Distributed Systems & Architecture
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=redis" width="48"/><br/>Redis
+    </td>
+
+  </tr>
+</table>
 ### 🧠 Productivity & Management
 
 <table align="center">
