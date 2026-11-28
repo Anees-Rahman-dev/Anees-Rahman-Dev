@@ -134,7 +134,10 @@ My goal isn't just to make things work. It's to understand how they're built, wh
     <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=redis" width="48"/><br/>Redis
     </td>
-
+       <td align="center" width="150">
+      <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="48"/><br/>RabbitMQ
+    </td>
+  
   </tr>
 </table>
 ### 🧠 Productivity & Management
