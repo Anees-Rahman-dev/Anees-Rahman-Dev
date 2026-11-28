@@ -137,6 +137,10 @@ My goal isn't just to make things work. It's to understand how they're built, wh
        <td align="center" width="150">
       <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="48"/><br/>RabbitMQ
     </td>
+      <td align="center" width="150">
+      <img src="https://img.shields.io/badge/YARP-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="48"/><br/>YARP
+    </td>
+ 
   
   </tr>
 </table>
