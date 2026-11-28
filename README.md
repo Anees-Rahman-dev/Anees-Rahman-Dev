@@ -150,6 +150,7 @@ My goal isn't just to make things work. It's to understand how they're built, wh
   
   </tr>
 </table>
+
 ### 🧠 Productivity & Management
 
 <table align="center">
